@@ -1,4 +1,4 @@
-# Softmax and Cross-entropy Lead to a Universal One-third Time Scaling of Loss when Learning Peaked Distributions
+# Softmax and Cross-entropy Lead to a Universal One-third Time Scaling of Loss When Learning Peaked Distributions
 
 This repository contains code to reproduce the experiments in the paper [Universal One-third Time Scaling in Learning Peaked Distributions](https://arxiv.org/abs/2602.03685)
 
