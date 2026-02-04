@@ -29,8 +29,8 @@ LLM experiments are in [./LLMs](./LLMs) folder, we use the script for [Pythia-12
 |Numerics of Theory| Figure 3 |[test-2](./tests/test-2.ipynb)|
 |Adam Scanning Initialization Scales| Figure 5, a and b | [exp-2](./exp/exp-2.py)|
 |Adam with Weight Decay| Figure 5, c and d | [exp-3-2](./exp/exp-3-2.py)|
-|LLM temperature | Figure 6a | [test-6](./tests/test-6.ipynb)|
-|LLM evaluation | Figure 6, b and c | [LLMs folder](./LLMs/) |
+|LLM Temperature | Figure 6a | [test-6](./tests/test-6.ipynb)|
+|LLM Evaluation | Figure 6, b and c | [LLMs folder](./LLMs/) |
 |SGD Scanning Temperatures and Learning Rates| Appendix D.2 | [exp-1-1](./exp/exp-1-1.py)|
 |Adam with Learning Rate Schedule| Appendix D.4 | [exp-2-1](./exp/exp-2-1.py)|
 |Generalized Toy Model with Residual Layers| Appendix D.6 | [exp-9](./exp/exp-9.py)|
