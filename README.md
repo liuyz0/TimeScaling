@@ -49,3 +49,4 @@ LLM experiments are in [./LLMs](./LLMs) folder, we use the script for [Pythia-12
 ## Interested in Other Neural Scaling Laws?
 
 - Width Scaling Due to Limited Representation: Superposition Yields Robust Neural Scaling ([paper link](https://arxiv.org/abs/2505.10465), [code link](https://github.com/liuyz0/SuperpositionScaling/tree/main))
+- Depth Scaling Due to Limited Transformation: Inverse Depth Scaling From Most Layers Being Similar ([paper link](https://arxiv.org/abs/2602.05970), [code link](https://github.com/liuyz0/DepthScaling))
