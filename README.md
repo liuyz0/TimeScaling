@@ -1,6 +1,6 @@
 # Softmax and Cross-entropy Lead to a Universal One-third Time Scaling of Loss When Learning Peaked Distributions
 
-This repository contains code to reproduce the experiments in the paper [Universal One-third Time Scaling in Learning Peaked Distributions](https://arxiv.org/abs/2602.03685)
+This repository contains code to reproduce the experiments in the paper [Universal One-third Time Scaling in Learning Peaked Distributions](https://arxiv.org/abs/2602.03685), Yizhou Liu, Ziming Liu, Cengiz Pehlevan, and Jeff Gore, ICML 2026.
 
 ## Overview
 
@@ -30,10 +30,12 @@ LLM experiments are in [./LLMs](./LLMs) folder, we use the script for [Pythia-12
 |Adam Scanning Initialization Scales| Figure 5, a and b | [exp-2](./exp/exp-2.py)|
 |Adam with Weight Decay| Figure 5, c and d | [exp-3-2](./exp/exp-3-2.py)|
 |LLM Temperature | Figure 6a | [test-6](./tests/test-6.ipynb)|
-|LLM Evaluation | Figure 6, b and c | [LLMs folder](./LLMs/) |
+|LLM Evaluation | Figure 6, b, c, and d | [LLMs folder](./LLMs/) |
 |SGD Scanning Temperatures and Learning Rates| Appendix D.2 | [exp-1-1](./exp/exp-1-1.py)|
 |Adam with Learning Rate Schedule| Appendix D.4 | [exp-2-1](./exp/exp-2-1.py)|
-|Generalized Toy Model with Residual Layers| Appendix D.6 | [exp-9](./exp/exp-9.py)|
+|Toy Model with Power Laws in Data| Appendix D.6 | [exp-5](./exp/exp-5.py)|
+|Generalized Toy Model with Residual Layers| Appendix D.7 | [exp-9](./exp/exp-9.py)|
+|MNIST Classification with a MLP| Appendix D.8 | [exp-4-2](./exp/exp-4-2.py)|
 
 ## Citation
 
